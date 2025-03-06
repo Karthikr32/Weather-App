@@ -1,0 +1,3 @@
+# Welcome to my Weather Application👋
+This application is designed to display weather information, although the UI details are not explicitly described in the readme. Based on the typical use of React in weather apps, the UI likely includes components for displaying weather data like temperature, humidity, weather conditions, and possibly a forecast. It would also likely feature input fields to search for weather information based on location, and the app might update dynamically as the user interacts with it.
+I used external **openWeather API** to get fetch the URL and used useState to handle state of a component.
